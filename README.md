@@ -6,7 +6,7 @@
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/rutracode/)
 [![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://vercel.com/mfarthur)
 
-![Arthur GitHub stats](https://github-readme-stats.vercel.app/api?username=mfarthur&show_icons=true&theme=merko)
+![Arthur GitHub stats](https://github-readme-stats.vercel.app/api?username=mfarthur&show_icons=true&theme=dracula)
 #
 
 ### Tecnologias que já estou usando:
