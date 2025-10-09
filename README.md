@@ -9,6 +9,9 @@
 </p>
 
 <div align="center">
+  <a href="https://arthur-freire-portfolio.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-34D399?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
+  </a>
   <a href="https://www.linkedin.com/in/arthur-martins-freire-3b9b75223/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
